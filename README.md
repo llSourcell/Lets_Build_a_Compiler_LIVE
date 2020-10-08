@@ -4,7 +4,7 @@ This is a python implementation of JamieBuild's "Super Tiny Compiler"
 
 ## Overview
 
-[JamieBuilds](https://github.com/jamiebuilds/the-super-tiny-compiler) developed a wonderfully educative compiler example a few years ago, and this is a 250 line python implementation it. It's the code for [this]() live game show hosted by Siraj Raval on Youtube. It takes an input expression in LISP and converts it into C.
+[JamieBuilds](https://github.com/jamiebuilds/the-super-tiny-compiler) developed a wonderfully educative compiler example a few years ago in Javasceipt, and this is a 250 line python implementation. It's the code for [this]() live game show hosted by Siraj Raval on Youtube. It takes an input expression in LISP and converts it into C.
 
 ## Dependencies
 
