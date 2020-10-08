@@ -17,7 +17,7 @@ Type 'python compiler.py' into a command line to run this code. You can switch o
 
 ## Related Implementations
 
-[Hazbo](https://github.com/hazbo/the-super-tiny-compiler)
-[ill-look-later](https://github.com/ill-look-later/mini-wasm) 
-[josegomezr](https://github.com/josegomezr/the-super-tiny-compiler)
-[donaldpipowitch](https://github.com/donaldpipowitch/the-super-tiny-compiler-in-rust)
+- [Hazbo](https://github.com/hazbo/the-super-tiny-compiler)
+- [ill-look-later](https://github.com/ill-look-later/mini-wasm) 
+- [josegomezr](https://github.com/josegomezr/the-super-tiny-compiler)
+- [donaldpipowitch](https://github.com/donaldpipowitch/the-super-tiny-compiler-in-rust)
